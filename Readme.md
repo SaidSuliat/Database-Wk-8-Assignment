@@ -44,7 +44,7 @@ Below is a simplified illustration of the ERD for the Hertz Clinic Booking Syste
 Screenshot:
 ![Alt Text](ERD_for_Hertz_Clinic_Booking_System.png)
 
-Contact
+Contact:
 For suggestions, improvements, or bug reports, please contact [Suliat Said] at [ummelbanaat@duck.com].
 
 Enjoy working with Hertz Clinic Booking System, and feel free to contribute or suggest improvements!
