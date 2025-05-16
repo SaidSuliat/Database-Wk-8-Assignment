@@ -42,9 +42,7 @@ ERD (Entity Relationship Diagram)
 Below is a simplified illustration of the ERD for the Hertz Clinic Booking System. Please refer to the attached screenshot in the repository.
 
 Screenshot:
-./images/ERD for Hertz Clinic Booking System.png
-
-![Alternative Text](ERD for Hertz Clinic Booking System.png)
+ERD_for_Hertz_Clinic_Booking_System.png
 
 Contact
 For suggestions, improvements, or bug reports, please contact [Suliat Said] at [ummelbanaat@duck.com].
